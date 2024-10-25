@@ -22,11 +22,14 @@ mutagen==1.47.0
 flask>=2.0.1
 # deps for inference
 pysbd>=0.3.4
+# gruut+supported langs
+gruut[de,es,fr]==2.2.3
+# 
+# 
+# 
 # deps for notebooks
 # umap-learn>=0.5.1
 # pandas>=1.4,<2.0
-# deps for training
-# matplotlib>=3.7.0
 # coqui stack
 trainer>=0.0.36
 # config management
@@ -36,8 +39,8 @@ coqpit>=0.0.16
 # pypinyin
 # korean
 # hangul_romanize
-# gruut+supported langs
-gruut[de,es,fr]==2.2.3
+# deps for training
+# matplotlib>=3.7.0
 # deps for korean
 # jamo
 # nltk
