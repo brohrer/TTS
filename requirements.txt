@@ -33,25 +33,25 @@ nltk
 g2pkk>=0.1.1
 bnnumerizer
 bnunicodenormalizer
-# 
-# 
-# 
-# deps for notebooks
-# umap-learn>=0.5.1
-# pandas>=1.4,<2.0
 # coqui stack
 trainer>=0.0.36
 # config management
 coqpit>=0.0.16
 # chinese g2p deps
-# jieba
-# pypinyin
-# korean
-# hangul_romanize
+jieba
+pypinyin
+korean
+hangul_romanize
+# 
+# 
+# 
+# deps for notebooks
+umap-learn>=0.5.1
+pandas>=1.4,<2.0
 # deps for training
-# matplotlib>=3.7.0
+matplotlib>=3.7.0
 #deps for tortoise
-# einops>=0.6.0
+einops>=0.6.0
 # transformers>=4.33.0
 #deps for bark
 # encodec>=0.1.1
