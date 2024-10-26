@@ -46,12 +46,12 @@ hangul_romanize
 # 
 # 
 # deps for notebooks
-umap-learn>=0.5.1
-pandas>=1.4,<2.0
+# umap-learn>=0.5.1
+# pandas>=1.4,<2.0
 # deps for training
-matplotlib>=3.7.0
+# matplotlib>=3.7.0
 #deps for tortoise
-einops>=0.6.0
+# einops>=0.6.0
 # transformers>=4.33.0
 #deps for bark
 # encodec>=0.1.1
