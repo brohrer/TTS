@@ -40,8 +40,8 @@ coqpit>=0.0.16
 # chinese g2p deps
 jieba
 pypinyin
-korean
-hangul_romanize
+# korean
+# hangul_romanize
 # 
 # 
 # 
