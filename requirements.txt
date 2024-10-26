@@ -27,6 +27,12 @@ pysbd>=0.3.4
 gruut[de,es,fr]==2.2.3
 # deps for bangla
 bangla
+# deps for korean
+jamo
+nltk
+g2pkk>=0.1.1
+bnnumerizer
+bnunicodenormalizer
 # 
 # 
 # 
@@ -44,12 +50,6 @@ coqpit>=0.0.16
 # hangul_romanize
 # deps for training
 # matplotlib>=3.7.0
-# deps for korean
-# jamo
-# nltk
-# g2pkk>=0.1.1
-# bnnumerizer
-# bnunicodenormalizer
 #deps for tortoise
 # einops>=0.6.0
 # transformers>=4.33.0
