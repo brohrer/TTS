@@ -48,6 +48,7 @@ pandas>=1.4,<2.0
 # deps for training
 matplotlib>=3.7.0
 # 
+transformers
 # 
 # 
 #deps for tortoise
