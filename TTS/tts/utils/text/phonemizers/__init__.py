@@ -8,7 +8,8 @@ from TTS.tts.utils.text.phonemizers.zh_cn_phonemizer import ZH_CN_Phonemizer
 
 try:
     from TTS.tts.utils.text.phonemizers.ja_jp_phonemizer import JA_JP_Phonemizer
-except ImportError:
+    #except ImportError:
+except ImportError, RuntimeError:
     JA_JP_Phonemizer = None
     pass
 
